@@ -19,6 +19,8 @@ $ composer require "rr-earring/baidu-tongji" -vvv
 
 use RrEarring\BaiduTongji\Factory;
 
+// 当前仅确定百度商业账号可用，百度账号暂无可测试账号
+
 $config = [
     'is_business'   => true, // is business account
     'username'      => '', // business required
