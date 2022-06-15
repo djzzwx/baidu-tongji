@@ -27,7 +27,7 @@ use RrEarring\BaiduTongji\Kernel\Contracts\ServiceContainer;
  * @property Visit\WorldClient $world
  * @property Site\ListClient $list
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 class Application extends ServiceContainer
 {

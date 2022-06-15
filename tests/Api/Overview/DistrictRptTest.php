@@ -11,7 +11,7 @@ use RrEarring\BaiduTongji\Tests\Traits\DateTrait;
  * Class ListTest
  * @package RrEarring\BaiduTongji\Tests\Api\Overview
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 class DistrictRptTest extends TestCase
 {

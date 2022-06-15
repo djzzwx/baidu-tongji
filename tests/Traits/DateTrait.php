@@ -6,7 +6,7 @@ namespace RrEarring\BaiduTongji\Tests\Traits;
  * Class Date
  * @package RrEarring\BaiduTongji\Tests\Traits
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 trait DateTrait
 {

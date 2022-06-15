@@ -12,7 +12,7 @@ use RrEarring\BaiduTongji\Kernel\Http\Response;
  * Class MediaClient
  * @package RrEarring\BaiduTongji\Api\Custom
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 class MediaClient extends BaseClient
 {

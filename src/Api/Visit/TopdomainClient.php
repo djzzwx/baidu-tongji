@@ -12,7 +12,7 @@ use RrEarring\BaiduTongji\Kernel\Http\Response;
  * Class TopdomainClient
  * @package RrEarring\BaiduTongji\Api\Visit
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 class TopdomainClient extends BaseClient
 {

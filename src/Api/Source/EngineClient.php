@@ -12,7 +12,7 @@ use RrEarring\BaiduTongji\Kernel\Http\Response;
  * Class EngineClient
  * @package RrEarring\BaiduTongji\Api\Source
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 class EngineClient extends BaseClient
 {

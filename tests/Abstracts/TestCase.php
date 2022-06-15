@@ -7,7 +7,7 @@ use PHPUnit\Framework\TestCase as BaseTestCase;
 /**
  * Class TestCase
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 abstract class TestCase extends BaseTestCase
 {

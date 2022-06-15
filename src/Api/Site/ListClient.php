@@ -12,7 +12,7 @@ use RrEarring\BaiduTongji\Kernel\Http\Response;
  * Class ListClient
  * @package RrEarring\BaiduTongji\Api\Site
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 class ListClient extends BaseClient
 {

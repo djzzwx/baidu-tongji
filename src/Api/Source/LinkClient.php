@@ -12,7 +12,7 @@ use RrEarring\BaiduTongji\Kernel\Http\Response;
  * Class LinkClient
  * @package RrEarring\BaiduTongji\Api\Source
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 class LinkClient extends BaseClient
 {

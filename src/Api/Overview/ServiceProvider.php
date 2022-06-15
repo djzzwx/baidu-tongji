@@ -9,7 +9,7 @@ use Pimple\ServiceProviderInterface;
  * Class ServiceProvider
  * @package RrEarring\BaiduTongji\Api\Overview
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 class ServiceProvider implements ServiceProviderInterface
 {

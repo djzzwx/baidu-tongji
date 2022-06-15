@@ -12,7 +12,7 @@ use RrEarring\BaiduTongji\Kernel\Http\Response;
  * Class CommonTrackRptClient
  * @package RrEarring\BaiduTongji\Api\Overview
  *
- * @author rr-earring <rr_earring@sina.com>
+ * @author rr-earring <ahwei000001@gmail.com>
  */
 class CommonTrackRptClient extends BaseClient
 {
